@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "vowxky/deathmessageplus/mixin/DeathMessageMixin": {
+      "die": "Lnet/minecraft/server/level/ServerPlayer;m_6667_(Lnet/minecraft/world/damagesource/DamageSource;)V"
+    }
+  },
+  "data": {
+    "searge": {
+      "vowxky/deathmessageplus/mixin/DeathMessageMixin": {
+        "die": "Lnet/minecraft/server/level/ServerPlayer;m_6667_(Lnet/minecraft/world/damagesource/DamageSource;)V"
+      }
+    }
+  }
+}

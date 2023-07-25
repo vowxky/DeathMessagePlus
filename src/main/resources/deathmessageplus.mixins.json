@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "vowxky.deathmessageplus.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "deathmessageplus.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "DeathMessageMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

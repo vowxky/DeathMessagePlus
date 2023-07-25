@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: deathmessageplus
+Specification-Vendor: 
+Specification-Version: 1
+Implementation-Title: deathmessageplus
+Implementation-Version: vowxky
+Implementation-Vendor: 
+Implementation-Timestamp: 2023-07-20T15:35:28-0500
+MixinConfigs: deathmessageplus.mixins.json
+
